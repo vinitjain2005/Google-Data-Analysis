@@ -70,7 +70,6 @@ Open `Goggle Data Analysis.ipynb` and run the cells to perform the analysis.
 - **Python 3.x**
 - **Jupyter Notebook**
 - **Pandas** – Data manipulation and analysis
-- **NumPy** – Numerical computing
 - **Matplotlib / Seaborn** – Data visualization
 - **Plotly** – Interactive plots
 
